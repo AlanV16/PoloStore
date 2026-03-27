@@ -25,7 +25,7 @@ graph LR
     Client[Frontend: React SPA] <--> |JSON REST API| Server[Backend: Laravel API]
     Server <--> Database[(MySQL / PostgreSQL)]
     Server <--> Payment[Stripe / PayPal Gateway]
-
+```
 
 ## ✨ Polostore - Advanced Frontend
 **[Live Demo: Try the Interactive Designer Here](https://polostorefran.netlify.app/)**
